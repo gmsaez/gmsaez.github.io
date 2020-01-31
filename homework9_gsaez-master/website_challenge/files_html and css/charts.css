@@ -1,0 +1,56 @@
+img {
+	width: 100%;
+	float: left;
+	margin: 1.66%;
+
+
+
+}
+
+p {
+	font-family: raleway;
+	font-size: 30px;
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #F1F1F1;
+	width: 27%;
+	padding: 20px;
+
+}
+
+.container-fluid {
+
+	background-color: white;
+	text-align: center;
+}
+
+.container {
+	background-color: white;
+}
+
+body {
+	background-color: #EAEBEC
+}
+
+h2 {
+	color: #28B79C;
+	font-size: 3rem;
+	font-weight: bold;
+}
+
+.active {
+	color: blue;
+	font-size: 2rem;
+	font-weight: bold;
+	background-color: #28B79C
+
+}
+
+h4 {
+	color: #28B79C;
+	font-size: 2rem;
+	font-weight: bold;
+	text-align: center;
+}

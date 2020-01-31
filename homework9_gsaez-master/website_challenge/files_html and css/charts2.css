@@ -1,0 +1,42 @@
+img {
+	width: 70%;
+	float: left;
+	margin: 1.66%;
+	align-items: center;
+
+
+}
+
+.container-fluid {
+
+	background-color: white;
+}
+
+.container {
+	background-color: white;
+	align-items: center;
+}
+
+body {
+	background-color: #EAEBEC
+}
+
+h2 {
+	color: #28B79C;
+	font-size: 3rem;
+	font-weight: bold;
+}
+
+
+.active {
+	color: blue;
+	font-size: 2rem;
+	font-weight: bold;
+	background-color: #28B79C
+
+}
+
+.dataframe {
+	align-content: center;
+	text-align: center;
+}
